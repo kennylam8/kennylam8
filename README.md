@@ -1,7 +1,7 @@
 ![](imgs/intro_img.png)
 
 
-# Data Science & Bioinformatics
+# Welcome to my Github page
 
 🏫 💻 Currently studying Bioinformatics and working at the University of Melbourne
 
