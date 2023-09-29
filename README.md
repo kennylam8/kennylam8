@@ -1,4 +1,4 @@
-![](imgs/intro_img.png)
+![](imgs/intro_img2.png)
 
 
 # Welcome to my Github page
