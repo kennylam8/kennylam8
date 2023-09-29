@@ -1,7 +1,6 @@
 ![](imgs/intro_img2.png)
 
-
-# Welcome to my Github page
+<h1>Welcome to my Github page</h1> 
 
 🏫 💻 Currently studying Bioinformatics and working at the University of Melbourne
 
